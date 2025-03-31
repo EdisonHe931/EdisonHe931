@@ -1,4 +1,4 @@
-Hi there 👋\
+Hi there! 👋\
 -💬I'm Edison He!\
 -⚡Electrical Engineering Student at McMaster Univeristy\
 -🖥️I'm interested in Computer Architecture and Processors\
