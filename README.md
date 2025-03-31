@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+##-I'm Edison He!
+##-Electrical Engineering Student at McMaster Univeristy
+##-I'm interested in Computer Architecture and Processors
+##Check Out my LinkedIn: https://www.linkedin.com/in/edison-he-011a0023b/
 <!--
 **EdisonHe931/EdisonHe931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
